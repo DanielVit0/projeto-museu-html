@@ -10,4 +10,4 @@ Projeto de site institucional desenvolvido com HTML e CSS.
 Praticar estrutura semântica e organização de layout em páginas web.
 
 ## Status
-Em desenvolvimento 🚧
+Concluído 
