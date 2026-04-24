@@ -72,11 +72,12 @@ body {
 
 /*section*/
 
-.hero {
+.left-column {
     width: 720px;
     float: left;
-    background: #86521a;
 }
+
+
 
 .aside {
     width: 350px;
@@ -157,3 +158,51 @@ content
 .content {
     
 }
+.expo h3, 
+.map h3,
+.read-more h3,
+.video  h3{
+    color: #227115;
+    font-size: 1.0em;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
+.expo a {
+    text-decoration: none;
+    color: #020201;
+    display: block;
+    margin-right: 25px;
+    padding-bottom: 3px;
+    text-transform: uppercase;
+}
+
+.expo a:hover {
+    color: #86521a;
+    font-size: 1.2em;
+}
+
+.video {
+    float: left;
+    width: 310px;
+    margin-left: 25px;
+}
+
+.map {
+    float: left;
+    width: 310px;
+    margin-left: 37px;
+}
+
+.expo {
+    float: left;
+    width: 310px;
+    margin: 15px 0 0 25px;
+}
+
+.read-more {
+    float: left;
+    width: 310px;
+    margin: 15px 0 0 37px;
+}
+
